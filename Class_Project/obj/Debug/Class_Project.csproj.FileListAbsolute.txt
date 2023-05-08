@@ -1,0 +1,22 @@
+C:\Users\Danh Tan Phuc\source\repos\Class_Project\Class_Project\bin\Debug\Class_Project.exe.config
+C:\Users\Danh Tan Phuc\source\repos\Class_Project\Class_Project\bin\Debug\Class_Project.exe
+C:\Users\Danh Tan Phuc\source\repos\Class_Project\Class_Project\bin\Debug\Class_Project.pdb
+C:\Users\Danh Tan Phuc\source\repos\Class_Project\Class_Project\obj\Debug\Class_Project.csproj.AssemblyReference.cache
+C:\Users\Danh Tan Phuc\source\repos\Class_Project\Class_Project\obj\Debug\Class_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danh Tan Phuc\source\repos\Class_Project\Class_Project\obj\Debug\Class_Project.Form1.resources
+C:\Users\Danh Tan Phuc\source\repos\Class_Project\Class_Project\obj\Debug\Class_Project.Properties.Resources.resources
+C:\Users\Danh Tan Phuc\source\repos\Class_Project\Class_Project\obj\Debug\Class_Project.csproj.GenerateResource.cache
+C:\Users\Danh Tan Phuc\source\repos\Class_Project\Class_Project\obj\Debug\Class_Project.csproj.CoreCompileInputs.cache
+C:\Users\Danh Tan Phuc\source\repos\Class_Project\Class_Project\obj\Debug\Class_Project.exe
+C:\Users\Danh Tan Phuc\source\repos\Class_Project\Class_Project\obj\Debug\Class_Project.pdb
+C:\Users\Admin\Desktop\Class_Project\Class_Project\obj\Debug\Class_Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Class_Project\Class_Project\obj\Debug\Class_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Class_Project\Class_Project\obj\Debug\Class_Project.Form1.resources
+C:\Users\Admin\Desktop\Class_Project\Class_Project\obj\Debug\Class_Project.Properties.Resources.resources
+C:\Users\Admin\Desktop\Class_Project\Class_Project\obj\Debug\Class_Project.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Class_Project\Class_Project\obj\Debug\Class_Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Class_Project\Class_Project\obj\Debug\Class_Project.exe
+C:\Users\Admin\Desktop\Class_Project\Class_Project\obj\Debug\Class_Project.pdb
+C:\Users\Admin\Desktop\Class_Project\Class_Project\bin\Debug\Class_Project.exe.config
+C:\Users\Admin\Desktop\Class_Project\Class_Project\bin\Debug\Class_Project.exe
+C:\Users\Admin\Desktop\Class_Project\Class_Project\bin\Debug\Class_Project.pdb
